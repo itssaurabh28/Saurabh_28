@@ -1,0 +1,40 @@
+body{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(44,9,121,1) 35%, rgba(0,212,255,1) 100%);
+}
+form{
+    border: 2px solid black;
+    border-radius: 3%;
+    margin-left: 25%;
+    margin-right: 10%; 
+    padding: 5%;
+    width: 50%;
+    height: 20%;
+    /* color: white; */
+    color: black;
+    font-weight: bold;
+    /* background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(237,62,247,1) 35%, rgba(0,212,255,1) 100%); */
+
+background-color: #BF2EF0;
+/* background-color: #FFF6EA; */
+}
+.bu{
+    width: 20%;
+    margin: 10%;
+}
+.he{
+    text-align: center;
+    margin-top: 5%;
+    color: white;
+    font-weight: bold;
+    
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+a:visited{
+    color: white;
+    text-decoration: none;
+}
